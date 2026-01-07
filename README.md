@@ -1,2 +1,1 @@
-Hi, I am Aiphy.I am a data research analyst, deeply curious about data, passionate and engaged in turning data into useful insights to drive good decision making.
-I clean data,analyze them, create dashboards to help companies and businesses grow.
+Hi, I am Ifeoma Chukwuji. A data Research Analyst, very curious about data and I am deeply committed to turning data into actionable insights to drive good decision making.
